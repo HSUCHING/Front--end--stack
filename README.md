@@ -20,6 +20,7 @@
     - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
     - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
+    - [this 关键字 阮一峰](http://javascript.ruanyifeng.com/oop/this.html)
     - [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
     - [JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book/)
     - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
