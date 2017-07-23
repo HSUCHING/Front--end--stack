@@ -1,6 +1,6 @@
-﻿> 喜欢就Star，不只是Fork；
+﻿> 非原创
 
-> 想要分享的动机才是驱动力，而技术仅仅是一种方法。
+> Web-question 请移到 [Web-question](https://github.com/Aierui/web-questions)
 
 
 
