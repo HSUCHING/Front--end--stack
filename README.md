@@ -1,6 +1,6 @@
 ﻿> 非原创
 
-> Web-question 请移到 [Web-question](https://github.com/Aierui/web-questions)
+> Web 开发常见问题 请移到 [Web-question](https://github.com/Aierui/web-questions)
 
 
 
